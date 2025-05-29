@@ -1,0 +1,5 @@
+ <div className="flex flex-grow flex-row gap-2 items-center justify-center ">
+      <IoSearch className=" text-3xl text-white"/>
+      <input type="text" className=" flex-grow bg-transparent border-white border-3 outline-none  p-4 text-white  rounded-md h-10" placeholder="Search"/>
+      <CiCirclePlus className="text-4xl cursor-pointer text-white"/>
+    </div>
